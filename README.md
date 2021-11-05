@@ -1,4 +1,4 @@
-# c-pl-github-classroom-template
+# 5-function
 
 Programming Exercises on Loops, Arrays, and Functions.
 
